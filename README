@@ -1,0 +1,7 @@
+A system that handles plugin loading and unloading, as well as events handler. This system is meant to be expandable and anything can be built with it.
+
+However, any features MUST be a plugin to the core.
+
+This is meant to simplify development when the project gets large and parts of the system needs to be swapped out, or make a piece of software support plugins that does stuff, perhaps replacing essential functionalities.
+
+Written in Python.
